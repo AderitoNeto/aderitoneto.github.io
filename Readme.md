@@ -10,6 +10,7 @@ Websites:
 - https://undraw.co/search
 - https://github.com/L1LNT
 - https://twitter.com/L1LNT
+- https://www.linkedin.com/in/ad%C3%A9rito-neto-6740311b6/
 
 Colors:
 - #0e2a47 - Dark blue
