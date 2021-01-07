@@ -7,7 +7,8 @@ Things i did use for my portfolio:
 Websites:
 - https://fontawesome.com/icons?d=gallery
 - https://www.sessions.edu/color-calculator/
-- https://undraw.co/search
 - https://github.com/L1LNT
 - https://twitter.com/L1LNT
 - https://www.linkedin.com/in/ad%C3%A9rito-neto-6740311b6/
+
+This was made with ❤️ by Adérito Neto from Portugal.
